@@ -14,6 +14,7 @@ hello
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/londonjones4189/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/londonjones4189/leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,4 +33,8 @@ hello
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/londonjones4189/leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/londonjones4189/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
